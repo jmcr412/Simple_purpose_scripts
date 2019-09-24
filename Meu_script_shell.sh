@@ -1,5 +1,5 @@
 #!/bin/sh
-# This is a script to customize my programs in Linux Mint
+# This is a script to customize my Linux Mint
 
 
 #youtube-dl
